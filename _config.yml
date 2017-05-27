@@ -8,7 +8,7 @@ menu:
 subnav:
   github: "https://github.com/WendyZWX"
   # zhihu: "#"
-  mail: "892102951@qq.com"
+  # mail: "892102951@qq.com"
   # qq: "#"
   # weibo: "#"
   # rss: "#"
@@ -36,10 +36,10 @@ open_in_new: false
 # baidu_tongji: true
 # google_analytics: true
 
-favicon: http://7xkj1z.com1.z0.glb.clouddn.com/head.jpg
+favicon: http://bizhi.zhuoku.com/2010/01/0103/fengguang/fengguang046.jpg
 
 #你的头像url
-avatar: http://7xkj1z.com1.z0.glb.clouddn.com/head.jpg
+avatar: http://bizhi.zhuoku.com/2010/01/0103/fengguang/fengguang046.jpg
 
 #是否开启分享
 share: true
